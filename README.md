@@ -28,7 +28,9 @@ Ongoing.
 
 1. Zhang S, Huangfu Q, Wang L, Chen Z, Zhu D. Low-dose polylactic acid microplastics reduce methane emissions without increasing grain arsenic and cadmium risks in ratoon rice system. *Journal of Environmental Sciences*. 2026;105840. [https://doi.org/10.1016/j.jes.2026.105840](https://doi.org/10.1016/j.jes.2026.105840)
 
-Details, abstract, and BibTeX are in [docs/publications.md](docs/publications.md). Papers and manuscripts will continue to be added here as they are prepared and published.
+2. Huangfu Q, Zhang S, Guo Y, Wang L, Chen Z, et al. Elevated soil temperatures during a heatwave year do not necessarily increase metal(loid) mobilization or accumulation across two harvests of semi-perennial rice: evidence from mesocosm experiments. *Environmental and Biogeochemical Processes*. 2025;1:e017. [https://doi.org/10.48130/ebp-0025-0017](https://doi.org/10.48130/ebp-0025-0017)
+
+Details, abstracts, and BibTeX are in [docs/publications.md](docs/publications.md). Papers and manuscripts will continue to be added here as they are prepared and published.
 
 ## Repository structure
 

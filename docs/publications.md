@@ -34,3 +34,28 @@ Biodegradable microplastics; Methane emissions; Soil redox dynamics; Heatwave; T
   url = {https://www.sciencedirect.com/science/article/pii/S100107422600745X}
 }
 ```
+
+---
+
+## Elevated soil temperatures during a heatwave year do not necessarily increase metal(loid) mobilization or accumulation across two harvests of semi-perennial rice: evidence from mesocosm experiments
+
+**Authors:** Qianrui Huangfu, Sha Zhang, Y. Guo, Lu Wang, Zheng Chen, et al. *(full author list to be confirmed)*
+
+**Journal:** Environmental and Biogeochemical Processes, 2025, 1: e017
+
+**DOI:** https://doi.org/10.48130/ebp-0025-0017
+
+### BibTeX
+
+```bibtex
+@article{huangfu2025heatwave,
+  title = {Elevated soil temperatures during a heatwave year do not necessarily increase metal(loid) mobilization or accumulation across two harvests of semi-perennial rice: evidence from mesocosm experiments},
+  author = {Huangfu, Qianrui and Zhang, Sha and Guo, Y. and Wang, Lu and Chen, Zheng and others},
+  journal = {Environmental and Biogeochemical Processes},
+  year = {2025},
+  volume = {1},
+  pages = {e017},
+  doi = {10.48130/ebp-0025-0017},
+  url = {https://doi.org/10.48130/ebp-0025-0017}
+}
+```
