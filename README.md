@@ -34,3 +34,7 @@ Papers and manuscripts arising from this project will be added here as they are 
 - `analysis/` — analysis scripts
 - `data/` — processed data only (no sensitive or raw data)
 - `literature/` — literature notes
+
+## License
+
+Code and scripts are released under the MIT License (see `LICENSE`). Documents and papers retain their own copyright (and, once published, that of the respective publishers).
