@@ -26,7 +26,9 @@ Ongoing.
 
 ## Publications
 
-Papers and manuscripts arising from this project will be added here as they are prepared and published. This section is updated continuously.
+1. Zhang S, Huangfu Q, Wang L, Chen Z, Zhu D. Low-dose polylactic acid microplastics reduce methane emissions without increasing grain arsenic and cadmium risks in ratoon rice system. *Journal of Environmental Sciences*. 2026;105840. [https://doi.org/10.1016/j.jes.2026.105840](https://doi.org/10.1016/j.jes.2026.105840)
+
+Details, abstract, and BibTeX are in [docs/publications.md](docs/publications.md). Papers and manuscripts will continue to be added here as they are prepared and published.
 
 ## Repository structure
 
